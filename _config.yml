@@ -7,7 +7,7 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://csqlwang.github.io/homepage/
+url: http://iamjingli.github.io/homepage/
 author: Fábio Madeira
 
 # edit this section with your information
